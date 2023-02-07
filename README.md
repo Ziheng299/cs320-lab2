@@ -1,4 +1,2 @@
-Make some changes
-HELLO WORLD
-MAKE SOME CHANGES
+I am tired
 # cs320-lab2
